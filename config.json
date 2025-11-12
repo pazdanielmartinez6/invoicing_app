@@ -1,0 +1,32 @@
+{
+  "paths": {
+    "templates": "templates",
+    "output": "output"
+  },
+  "text_positions": {
+    "invoice_reference": [430, 126],
+    "invoice_date": [430, 137],
+    "due_date": [430, 157],
+    "po": [418, 166],
+    "accounting_month_uno": [149, 287],
+    "accounting_month_dos": [102, 536],
+    "accounting_month_tres": [102, 544],
+    "quantity": [272, 278],
+    "net_amount": [435, 278],
+    "sub_total": [435, 574],
+    "vat": [435, 589],
+    "vat_dos": [438, 589],
+    "total": [435, 605],
+    "backup": [48, 72],
+    "total_two": [460, 783],
+    "bloque_uno": [65, 78],
+    "bloque_two": [140, 78],
+    "bloque_three": [265, 78],
+    "bloque_four": [460, 78]
+  },
+  "pdf_settings": {
+    "rows_per_backup_page": 58,
+    "max_site_name_chars": 30,
+    "max_client_ref_chars": 20
+  }
+}
